@@ -1,2 +1,3 @@
 first widget in stories
-second widget in stories
+edit widget in stories
+add widgr in storeis
