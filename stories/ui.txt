@@ -1,0 +1,2 @@
+first widget in stories
+second widget in stories
